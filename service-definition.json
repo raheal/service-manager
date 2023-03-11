@@ -1,0 +1,9 @@
+[
+    {
+        "name" : "service1",
+        "executablePath" : "C:/Users/<USER_NAME>/Documents/Tools/graalvm-ce-java11-windows-amd64-22.2.0/graalvm-ce-java11-22.2.0/bin/java.exe",
+        "argsList" : ["-jar", "C:/Users/<USER_NAME>/Documents/code/java/app.jar"],
+        "redirectStandardErrorPath" : "C:/Users/<USER_NAME>/logs/service-errors.txt",
+        "redirectStandardOutputPath" : "C:/Users/<USER_NAME>/logs/service-output.txt"
+    }
+]
